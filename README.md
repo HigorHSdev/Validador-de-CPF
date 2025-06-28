@@ -7,6 +7,7 @@ O CPF é um documento brasileiro que contém 11 dígitos, sendo os dois últimos
 
 Este validador realiza esse cálculo de forma automática e informa se o CPF inserido é válido ou inválido.
 
+
 ✅ Funcionalidades do projeto
 🧹 Remove automaticamente pontos e traços do CPF digitado
 
@@ -17,6 +18,7 @@ Este validador realiza esse cálculo de forma automática e informa se o CPF ins
 🧠 Realiza o cálculo dos dois dígitos verificadores conforme o algoritmo oficial
 
 📣 Informa se o CPF é válido com base nesses critérios
+
 
 🚀 Como executar o projeto
 📥 Tenha o Python 3 instalado no computador
@@ -41,6 +43,7 @@ Digite o CPF: 529.982.247-25
 🛠️ Tecnologias utilizadas
 🐍 Python 3
 
+
 📂 Organização do projeto
 ```bash
 Validador-de-CPF/
@@ -58,6 +61,7 @@ Validador-de-CPF/
 └── requirements.txt               # Dependências (opcional, caso use pacotes)
 
 ```
+
 
 👨‍💻 Autor
 Desenvolvido por Higor Santana
