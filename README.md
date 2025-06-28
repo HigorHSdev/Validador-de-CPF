@@ -10,20 +10,30 @@ Este validador realiza esse cálculo de forma automática e informa se o CPF ins
 
 ## ✅ Funcionalidades do projeto
 -🧹 Remove automaticamente pontos e traços do CPF digitado
+
 -🔢 Verifica se o número possui 11 dígitos
+
 -🚫 Detecta CPFs inválidos formados por dígitos repetidos (ex: 111.111.111-11)
+
 -🧠 Realiza o cálculo dos dois dígitos verificadores conforme o algoritmo oficial
+
 -📣 Informa se o CPF é válido com base nesses critérios
 
 
 ## 🚀 Como executar o projeto
 -📥 Tenha o Python 3 instalado no computador
+
 -🔗 Clone o repositório:
 https://github.com/HigorHSdev/Validador-de-CPF.git
+
 -📂 Acesse a pasta do projeto
+
 -▶️ Execute o arquivo validador_cpf.py
+
 -🖊️ Digite o CPF no terminal (com ou sem pontuação)
+
 -✅ O sistema informará se o CPF é válido ou não
+
 -💡 Exemplo de uso
 ```bash
 Digite o CPF: 529.982.247-25  
@@ -53,6 +63,6 @@ Validador-de-CPF/
 ```
 
 
-👨‍💻 Autor
-Desenvolvido por Higor Santana
+## 👨‍💻 Autor
+-Desenvolvido por Higor Santana
 🔗 GitHub: https://github.com/HigorHSdev
